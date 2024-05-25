@@ -1,5 +1,3 @@
-# Welcome to stru.ca
-
 ## About Us
 
 We are excited to introduce our UI Library and supporting tools designed to accelerate the development of progressive web applications. Our mission is to empower developers and designers to build efficient and effective applications with ease and speed.
